@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Green App</string>
+
+    <array name="fruits"> <string>Apple</string>
+        <string>Orange</string>
+        <string>Banana</string> </array>
+</resources>
